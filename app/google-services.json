@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "614848931550",
+    "firebase_url": "https://fir-melardev.firebaseio.com",
+    "project_id": "fir-melardev",
+    "storage_bucket": "fir-melardev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614848931550:android:5fbecae55d9171fe",
+        "android_client_info": {
+          "package_name": "jlexdev.com.firebase_melardev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614848931550-3n59uqt3ipb9d21fkkaqu73uambtkv7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jlexdev.com.firebase_melardev",
+            "certificate_hash": "19243E404765E07771EF23E7F51648BFA41ED636"
+          }
+        },
+        {
+          "client_id": "614848931550-cpt9i8a00ek6tevf94stcitqnoko6rt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{"current_key": "AIzaSyDUy3GfmY2BLO2YFPpPtu8Pp_X47MEbFdI"}],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614848931550-cpt9i8a00ek6tevf94stcitqnoko6rt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
